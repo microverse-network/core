@@ -1,0 +1,3 @@
+{
+  "extends": ["@microverse-network/eslint-config"]
+}
